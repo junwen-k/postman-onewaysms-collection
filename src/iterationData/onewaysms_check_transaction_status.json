@@ -1,0 +1,18 @@
+[
+  {
+    "mockResponseID": "14128160-26e76ceb-39b7-42d5-a4cb-5326b841e9af",
+    "mtid": "DELIVERED_TO_TELCO"
+  },
+  {
+    "mockResponseID": "14128160-d6af30f1-227a-4307-981d-affba988ef87",
+    "mtid": "MT_ID"
+  },
+  {
+    "mockResponseID": "14128160-01c5dcc8-1dd2-4c14-bce9-10a1d5e79633",
+    "mtid": "INVALID_OR_NOT_FOUND"
+  },
+  {
+    "mockResponseID": "14128160-ad361f49-fa49-4f0d-88aa-53bb0abbd201",
+    "mtid": "FAILED_TO_SEND"
+  }
+]

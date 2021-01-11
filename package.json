@@ -1,0 +1,22 @@
+{
+  "name": "postman-onewaysms-collection",
+  "version": "1.0.0",
+  "description": "Postman Collection Runner for Malaysia OneWaySMS Gateway.",
+  "main": "src/collection.json",
+  "scripts": {
+    "runner:check-credit-balance": "newman run src/collection.json -d src/iterationData/onewaysms_check_credit_balance.json --folder \"Check credit balance\"",
+    "runner:check-transaction-status": "newman run src/collection.json -d src/iterationData/onewaysms_check_transaction_status.json --folder \"Check transaction status\"",
+    "runner:send-mt-message": "newman run src/collection.json -d src/iterationData/onewaysms_send_mt_message.json --folder \"Send MT message\""
+  },
+  "keywords": [
+    "postman",
+    "newman",
+    "collection",
+    "runner"
+  ],
+  "author": "Kwan Jun Wen <junwenkwan97@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "newman": "^5.2.2"
+  }
+}

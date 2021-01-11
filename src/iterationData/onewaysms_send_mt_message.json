@@ -1,0 +1,74 @@
+[
+  {
+    "mockResponseID": "14128160-0fdcf92a-3253-49bd-946b-53c828999a32",
+    "apiusername": "INVALID_USERNAME",
+    "apipassword": "INVALID_PASSWORD",
+    "senderid": "senderid",
+    "mobileno": "0123456789",
+    "languagetype": "1",
+    "message": "Hello World"
+  },
+  {
+    "mockResponseID": "14128160-861fbc7b-f7e5-4d3a-9eff-d19b523453bb",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD",
+    "senderid": "INVALID",
+    "mobileno": "0123456789",
+    "languagetype": "1",
+    "message": "Hello World"
+  },
+  {
+    "mockResponseID": "14128160-9915a557-2e1d-4527-bb5e-ebaa4915e92d",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD",
+    "senderid": "senderid",
+    "mobileno": "INVALID",
+    "languagetype": "1",
+    "message": "Hello World"
+  },
+  {
+    "mockResponseID": "14128160-c297dd0f-f8b3-4d1b-bc17-9592c53dc1f2",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD",
+    "senderid": "senderid",
+    "mobileno": "0123456789",
+    "languagetype": "INVALID",
+    "message": "Hello World"
+  },
+  {
+    "mockResponseID": "14128160-12249cc0-3513-474f-b9bc-415e3ce381f2",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD",
+    "senderid": "senderid",
+    "mobileno": "0123456789",
+    "languagetype": "1",
+    "message": "INVALID"
+  },
+  {
+    "mockResponseID": "14128160-22e88859-f6ee-486a-b5bf-3231f230d3a7",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD",
+    "senderid": "senderid",
+    "mobileno": "0123456789",
+    "languagetype": "1",
+    "message": "INSUFFICIENT_CREDIT_BALANCE"
+  },
+  {
+    "mockResponseID": "14128160-690084ee-001d-475a-a807-9fa59f48f291",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD",
+    "senderid": "senderid",
+    "mobileno": "0123456789",
+    "languagetype": "1",
+    "message": "SUCCESSFUL"
+  },
+  {
+    "mockResponseID": "14128160-f4920ff6-f425-4dba-a245-3eabce3c8cc1",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD",
+    "senderid": "senderid",
+    "mobileno": "0123456789,0129876543",
+    "languagetype": "1",
+    "message": "SUCCESSFUL_MULTIPLE"
+  }
+]

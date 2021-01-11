@@ -1,0 +1,12 @@
+[
+  {
+    "mockResponseID": "14128160-5917602a-9218-4a72-88ff-f1056d5cc706",
+    "apiusername": "USERNAME",
+    "apipassword": "PASSWORD"
+  },
+  {
+    "mockResponseID": "14128160-a1e07e90-1e85-4b6e-bdf8-65dec1bb0e56",
+    "apiusername": "INVALID_USERNAME",
+    "apipassword": "INVALID_PASSWORD"
+  }
+]
