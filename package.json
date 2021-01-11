@@ -15,7 +15,7 @@
     "runner"
   ],
   "author": "Kwan Jun Wen <junwenkwan97@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "newman": "^5.2.2"
   }
